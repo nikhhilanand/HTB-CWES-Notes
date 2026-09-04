@@ -7,7 +7,7 @@ These notes are designed to capture practical web security concepts, exploitatio
 
 ### 📚 What’s Inside
 
-* [**Web Requests**](./01-Web Requests.md)
+* [**Web Requests**](01-Web%20Requests.md)
 
 <!--
 * **Burp Suite Techniques**
