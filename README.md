@@ -8,6 +8,8 @@ These notes are designed to capture practical web security concepts, exploitatio
 ### 📚 What’s Inside
 
 * [**Web Requests**](01-Web%20Requests.md)
+* [**Introduction To Web Applications**]()
+* [**Using Web Proxies**]()
 
 <!--
 * **Burp Suite Techniques**
