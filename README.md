@@ -9,7 +9,7 @@ These notes are designed to capture practical web security concepts, exploitatio
 
 * [**Web Requests**](01-Web%20Requests.md)
 * [**Introduction To Web Applications**](02-Intro%20Web%20App.md)
-* [**Using Web Proxies**]()
+* [**Using Web Proxies**](03-Using%20Web%20Proxies.md))
 
 <!--
 * **Burp Suite Techniques**
