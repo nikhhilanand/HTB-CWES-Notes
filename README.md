@@ -11,6 +11,23 @@ These notes are designed to capture practical web security concepts, exploitatio
 * [**Introduction To Web Applications**](02-Intro%20Web%20App.md)
 * [**Using Web Proxies**](03-Using%20Web%20Proxies.md)
 * [**Information Gathering - Web Edition**](04-Information%20Gathering.md)
+* 
+* [**Web Fuzzing**]()
+* [**JavaScript Deobfuscation**]()
+* [**Cross-Site Scripting (XSS)**]()
+* [**SQL Injection Fundamentals**]()
+* [**SQLMap Essentials**]()
+* [**Command Injections**]()
+* [**File Upload Attacks**]()
+* [**Server-Side Attacks**]()
+* [**Login Brute Forcing**]()
+* [**Broken Authentication**]() 
+* [**Web Attacks**]()
+* [**File Inclusion**]()
+* [**Attaacking GraphQL**]()
+* [**API Attacks**]()
+* [**Attacking Common Applications**]()
+* [**Bug Bounty Hunting Process**]()
 
 
 <!--
